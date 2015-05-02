@@ -19,7 +19,7 @@
  *  See the License for the specific language governing permissions
  *  and limitations under the License.
  *
- *  Letztes Update: 1988-05-12 
+ *  Haupt-Entwicklungszeit: 1988 - 1988-05-12 
  */
    
 MODULE DISKEDIT; 
